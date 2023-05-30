@@ -1,6 +1,7 @@
 # Example app for CI Hexlet course
 
 [![example event parameter](https://github.com/bearBenjamin/hexlet-ci-app/actions/workflows/main.yml/badge.svg?event=push)](https://github.com/bearBenjamin/hexlet-ci-app/actions)
+
 Starting boilerplate of [Strapi](https://strapi.io/) application
 
 ## System requirements
